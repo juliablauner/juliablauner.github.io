@@ -3,7 +3,7 @@
 
 
 
-My name is Julia Blauner, I am a senior at Lehigh University and I am majorining in finance and marketing with a minor in mass communication. My IO page os a collection of projects that have been exported from my data storytelling class at Lehigh. Over the course of this journey I learned how to put together an IO page, effectively use Tableau and many other applications that are crucial in analyzing data. 
+My name is Julia Blauner, I am a senior at Lehigh University and I am majorining in finance and marketing with a minor in mass communication. My IO page is a collection of projects that have been exported from my data storytelling class at Lehigh. Over the course of this journey I learned how to put together an IO page, effectively use Tableau and many other applications that are crucial in analyzing data. 
 
 
 
