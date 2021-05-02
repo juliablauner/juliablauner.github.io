@@ -19,9 +19,12 @@ My name is Julia Blauner, I am a senior at Lehigh University and I am majorining
 
 
 
-[LinkedIn](https://www.linkedin.com/in/juliablauner/)
+Here is the link to my LinkedIn page. [LinkedIn](https://www.linkedin.com/in/juliablauner/)
 
 
+
+
+## A Journey Through Florence 
 <iframe width="100%" height="480px" src="https://poly.google.com/view/evB2abWrdlO/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
 
