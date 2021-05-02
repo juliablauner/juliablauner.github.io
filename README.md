@@ -51,8 +51,7 @@ Here is the link to my LinkedIn page. [LinkedIn](https://www.linkedin.com/in/jul
 
 
 ## March Madness Twitter Data 
-
-<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="March Madness Twitter Data Final" src="//lu.maps.arcgis.com/apps/Embed/index.html webmap=6bea30f6ba044a4d8409b92c323da78e&extent=-144.4513,6.2705,-47.42,51.7536&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div> 
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="March Madness Twitter Data Final" src="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=6bea30f6ba044a4d8409b92c323da78e&extent=-144.4513,6.2705,-47.42,51.7536&zoom=true&previewImage=false&scale=true&legend=true&disable_scroll=true&theme=light"></iframe></div> 
 
 
 
