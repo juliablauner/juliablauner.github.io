@@ -87,4 +87,4 @@ Textual Description:
 
 Source: 
 
-Method, Findings, Implications: 
+Method, Findings, Implications:  
