@@ -38,6 +38,9 @@ Data Source: Google Maps
 <iframe title="Total Lehigh Enrollment 2017 By College" aria-label="chart" id="datawrapper-chart-kIFvl" src="https://datawrapper.dwcdn.net/kIFvl/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="679"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+
+
+
 Textual Description: This pie chart displays the percentage of Lehigh undergraduate students enrolled in particular schools from 2017. The College of Arts & Sciences has the largest enrollment while Intercollegiate programs has the least. 
 
 Data Source: https://oirsa.lehigh.edu/fte-headcount
