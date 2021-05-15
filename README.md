@@ -3,7 +3,7 @@
 
 
 
-My name is Julia Blauner, I am a senior at Lehigh University and I am majoring in finance and marketing with a minor in mass communication. My IO page is a collection of projects that have been exported from my data storytelling class at Lehigh. Over the course of this journey I learned how to put together an IO page, effectively use Tableau and many other applications that are crucial in analyzing data. 
+Hi! My name is Julia Blauner, I am a senior at Lehigh University and I am majoring in finance and marketing with a minor in mass communication. My IO page is a collection of projects that have been exported from my data storytelling class at Lehigh. Over the course of this journey I learned how to put together an IO page, effectively use Tableau and many other applications that are crucial in analyzing data. 
 
 
 
@@ -46,6 +46,14 @@ Textual Description: This pie chart displays the percentage of Lehigh undergradu
 Data Source: https://oirsa.lehigh.edu/fte-headcount
 
 Method, Findings, Implications: This pie chart was made in order to display the results of Lehigh undergraduate students and their enrollement in particular colleges. It was found that the school that housed the most students was Arts & Sciences and the school with the least is the Intercollegiate Programs. I am not very suprised by this data as many students will apply into the Arts & Sciences school as a freshman before they have declared their major. 
+
+
+## Lehigh Undergraduate Enrollment 
+
+<iframe title="Lehigh Undergraduate Enrollment 2017" aria-label="Interactive line chart" id="datawrapper-chart-GCAZp" src="https://datawrapper.dwcdn.net/GCAZp/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+
 
 
 
